@@ -105,6 +105,7 @@ const Home: React.FC = () => {
       <option value="Sur">Sur</option>
       <option value="Playa">Playa</option>
       <option value="Centro">Centro</option>
+      <option value="Bosque">Bosque</option>
     </select>
   </div>
 </div>
